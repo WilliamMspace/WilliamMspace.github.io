@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Physics, California State University Los Angeles, May 2027 (expected)
+* B.A. in Engineering Physics, Augustana College, 2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2024 - Present: LIGO Scientific Collaboration
+  * PI: Dr. Harry Themann
+  * Analyzing public LIGO data on GW250114 to perform tests of general relativity by testing the
+    consistency of the inspiral-merger-ringdown consistency andHawking area law.
+  * Used LIGO data to constrain black holes source properties - using GWpy and PyCBC to create         nested sampling runs in order to estimate parameters of merging black hole binaries 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2025 - July 2025: Visiting Collaborator - 2025 MACRO Summer Program (Virtual)
+  * PI: Dr. John Cannon
+  * Investigated the presence of radio variability in the eclipsing cataclysmic variable LX Serpens using the NRAO high-performance computing cluster.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python(SciPy,Matplotlib,Numpy,Astropy,GWpy,PyCBC); C++, Shell/Scripting(Bash,Nano,Linux/Ubuntu); MATLAB
+  
+* SPDC design, 3d printing, mechanical design (Onshape, Autodesk Inventor), basic CNC and Arduino
+
+* HPC Job Scheduling, Interferometric Calibration (basic familiarity)
 
 Publications
 ======
@@ -61,4 +54,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* SPS Associate Zone Councilor
+* Augustana College APS_IDEA Inclusion Diversity Equity Alliance
+* Augustana Society of Physics Students
+  * Chapter President
+  * John Deere Planetarium Astro-Night Host   
