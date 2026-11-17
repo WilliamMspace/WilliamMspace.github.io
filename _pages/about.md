@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
-
 Hello!! I am currently a graduate student at California State University, Los Angeles, working towards my MS in Physics. My research interests broadly include black hole physics, strong gravity, and space-based instrumentation.  I am currently a member of [LIGO](https://www.ligo.caltech.edu/), where I work on improving methods for estimating black hole mass and spin from gravitational-wave data.
 
 Outside of research, I enjoy reading non-fiction or drawing, particularly spaceships and other space-related objects. 
