@@ -46,11 +46,14 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Physics-2200: General Physics II (Electromagnetism and Circuits)
+    * Graduate Lab Assistant – California State University Los Angeles
+  * Physics-1570: Physics for the 21^{st} century
+    * Graduate Lab Assistant – California State University Los Angeles
+  * Physics-212: Foundational Physics II (Intro to ElectroStatics)
+    * Undergraduate Teaching Assistant – Augustana College 
   
 Service and leadership
 ======
