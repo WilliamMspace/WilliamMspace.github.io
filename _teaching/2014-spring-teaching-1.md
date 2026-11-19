@@ -27,9 +27,3 @@ A broad overview of writing technical papers.
 
 [How to Write and Develop your Astronomy](https://arxiv.org/pdf/2110.05503)
 This one is specific to astronomy however a broader one is offered below. 
-
-Heading 2
-======
-
-Heading 3
-======
